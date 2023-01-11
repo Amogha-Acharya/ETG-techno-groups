@@ -1,2 +1,3 @@
 # ETG-internship
-Inventory management system
+Inventory management system 
+Sample code on bill generation
